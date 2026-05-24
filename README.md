@@ -94,20 +94,7 @@ fun_fact: I turn ☕ coffee into clean, functional code!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaysathwik-ai&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysathwik-ai&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaysathwik-ai&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinaysathwik-ai&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
