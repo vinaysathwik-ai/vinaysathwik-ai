@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=I'm+Vinay+Sathwik+Motakatla;Full+Stack+Developer+%F0%9F%9A%80;Web+Designer+%26+Builder+%F0%9F%8E%A8;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=I'm+Vinay+Sathwik+Motakatla;Web+Developer+%F0%9F%9A%80;Web+Designer+%26+Builder+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ```yaml
 name: Vinay Sathwik Motakatla
-title: Full Stack Developer & Web Designer
+title: Web Developer 
 education: B.Tech in Computer Science Engineering
-location: Hyderabad, India 🇮🇳
+location: SRM University AP
 
 currently_working_on:
   - Building full-stack web applications
@@ -39,11 +39,11 @@ fields_of_interest:
   - UI/UX & Web Design
 
 hobbies:
-  - 🎮 Gaming
-  - 📸 Photography
-  - 🎵 Listening to Music
-  - 📚 Reading Tech Blogs & Research Papers
-  - ✈️ Traveling & Exploring
+  -  Gaming
+  -  Photography
+  -  Listening to Music
+  -  Reading Tech Blogs & Research Papers
+  -  Traveling & Exploring
 
 specialities:
   - Building responsive, pixel-perfect UIs
